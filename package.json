@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-exercicio-01",
+  "version": "0.0.1",
+  "description": "homepage to exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozeiassantos/fullstack-exercicio-01.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "ozeias Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ozeiassantos/fullstack-exercicio-01/issues"
+  },
+  "homepage": "https://github.com/Ozeiassantos/fullstack-exercicio-01#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
